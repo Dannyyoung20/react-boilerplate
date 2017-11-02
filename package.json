@@ -1,0 +1,20 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple react boilerplate App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Boilerplate"
+  ],
+  "author": "Eze Daniel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "webpack": "^3.8.1"
+  }
+}
